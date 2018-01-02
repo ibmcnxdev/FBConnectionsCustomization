@@ -1,7 +1,7 @@
 # FBConnectionsCustomization
 IBM Connections Customizer content
 
-Customization repository for our Connections pages here at the Athabasca University, Faculty of Business. 
+Customization repository for our Connections pages at the Athabasca University, Faculty of Business. 
 
 
 Gunnar Schwede
