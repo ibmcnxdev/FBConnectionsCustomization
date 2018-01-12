@@ -37,19 +37,19 @@ if (typeof(dojo) != "undefined") {
       var hashValue = window.location.hash;
 
       if (hashValue == "#myStream/imFollowing/all") {
-        changeNewsRiverColour(240, 158, 231);
+        changeNewsRiverColour(240, 240, 240);
       }
       if (hashValue == "#atMentions/atMentions") {
-        changeNewsRiverColour(110, 158, 122);
+        changeNewsRiverColour(170, 188, 202);
       }
       if (hashValue == "#myNotifications/forme/all") {
-        changeNewsRiverColour(90, 111, 134);
+        changeNewsRiverColour(240, 240, 240);
       }
       if (hashValue == "#actionRequired/actionRequired/all") {
-        changeNewsRiverColour(20, 101, 234);
+        changeNewsRiverColour(170, 188, 202);
       }
       if (hashValue == "#saved/saved/all"){
-        changeNewsRiverColour(230, 2, 155);
+changeNewsRiverColour(240, 240, 240);
       }
     }
 
